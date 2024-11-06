@@ -1,8 +1,7 @@
 [English version](https://github.com/karizr45/Project-Roll/blob/main/README.md)
 
 # Project Roll
-Добро пожаловать в world rolling 
-
+Добро пожаловать в world rolling.
 Это портативный мини-пк с raspberry pi 4 внутри. Он полностью настраеваемый и с открытым исходным кодом.
 Вы можете установить любую систему, какую захотите, от Windows 11 ARM до Kali linux
 
