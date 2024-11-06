@@ -1,3 +1,5 @@
+[Russian version](https://github.com/karizr45/Project-Roll/blob/main/READMErus.md)
+
 # Project Roll
 Welcome to world rolling
 This is the handheld mini pc with raspberry pi 4 inside. It's fully customizable and open source.
