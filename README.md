@@ -1,4 +1,4 @@
-[Русская версия](https://github.com/karizr45/Project-Roll/blob/main/READMErus.md)
+[Русская версия](https://github.com/wohdek21/Project-Roll/blob/main/READMErus.md)
 
 # Project Roll
 Welcome to world rolling.
