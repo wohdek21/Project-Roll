@@ -2,7 +2,7 @@
 
 # Project Roll
 ### Welcome to world rolling.
-This is the handheld mini pc with raspberry pi 4 inside. It's fully customizable and open source.
+This is the handheld mini pc with raspberry pi 4 inside. It's fully customizable and open source. Also has functions for pentesting like Flipper Zero.
 
 ## System
 You can install Any system you want from Windows 11 ARM to Kali linux.          
@@ -12,8 +12,8 @@ Linux is supported natively.
 Also, Project Roll uses RollUI as a program to work with other modules.  
 
 # Functions
-This project also contains Flipper Zero's functions such as RFID Cloning or emulating, NFC Reading and Writing, IR Reading and emulating and Radio reading and emulating.    
-If you want for Roll to be without these functions, alright it's all your selection. Also there are some USB Type-C and Mini HDMI for connecting keyboard, mouse and monitor.
+This project also contains Flipper Zero's functions such as RFID Cloning or emulating, NFC Reading and Writing, IR Reading and emulating and Radio reading and emulating.       
+If you want for Roll to be without these functions, alright it's all your selection. Also there are some USB Type-C and Mini HDMI for connecting keyboard, mouse and monitor.   
 
 # Parts
 - First and main part is Raspberry Pi 4. This is the brains of our Roll. Also do not install version with RAM smaller than 4GB, some systems may not boot.  
@@ -23,5 +23,14 @@ If you want for Roll to be without these functions, alright it's all your select
 - Third is PN532 module. He gives you powers to emulate, write and read 13.56 Mhz RFID card and NFC points.  
 - and last is Radio CC1101 module. He can transmit or receive signal from 433 Mhz frequency.  
 
-#Ending
+# Ending
 This is not a normal PC. Roll can not replace normal computers, but work as handheld station he does at 100%.
+
+# Goals
+- [x] Select hardware to use
+- [ ] Get and assemble hardware
+- [ ] Try installing both linux and windows for some tests
+- [ ] Make RollUI and add it to system iso
+- [ ] Add some aesthetic to project 🤩
+> [!NOTE]
+> Goals may be updated some times
