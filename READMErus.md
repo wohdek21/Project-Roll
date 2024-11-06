@@ -1,4 +1,4 @@
-
+[English version](https://github.com/karizr45/Project-Roll/blob/main/README.md)
 
 # Project Roll
 Добро пожаловать в world rolling 
