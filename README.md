@@ -18,8 +18,15 @@ In this system, RollUI has a function called "Leave to Desktop". It simply close
 It's like SteamOS!
 
 # Functions
-This project also contains Flipper Zero's functions such as RFID Cloning or emulating, NFC Reading and Writing, IR Reading and emulating and Radio reading and emulating.       
-If you want for Roll to be without these functions, alright it's all your selection. Also there are some USB Type-C and Mini HDMI for connecting keyboard, mouse and monitor.   
+This project also contains Flipper Zero features such as:
+
+- emulation, reading and writing of RFID cards at 13.56 Mhz.
+- emulate, read, and write NFC tags.
+- emulation and reading of the IR signal.
+- receiving and transmitting a radio signal at a frequency of 433MHz.
+
+If you want Roll to be without these features, well, it's all up to you.   
+And also there are some USB Type-C and Mini HDMI for connecting keyboard, mouse and monitor.   
 
 # Parts
 - First and main part is Raspberry Pi 4. This is the brains of our Roll.
@@ -34,6 +41,7 @@ If you want for Roll to be without these functions, alright it's all your select
 # Goals
 - [x] Select hardware to use
 - [ ] Get and assemble hardware
+- [ ] Make all of the functions
 - [ ] Try installing both linux and windows for some tests
 - [ ] Make RollUI and add it to system iso
 - [ ] Add some aesthetic to project 🤩
