@@ -1,6 +1,8 @@
 [Русская версия](https://github.com/wohdek21/Project-Roll/blob/main/READMErus.md)
 
-# Project Roll
+![Roll logo](https://github.com/wohdek21/Project-Roll/blob/main/For%20github/img/IMG_1495.jpeg)
+  
+  # Project Roll
 ### Welcome to world rolling.
 This is the handheld mini pc with raspberry pi 4 inside. It's fully customizable and open source. Also functions as a pentester
 
