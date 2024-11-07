@@ -1,8 +1,8 @@
 [Русская версия](https://github.com/wohdek21/Project-Roll/blob/main/READMErus.md)
 
-![Roll logo](https://github.com/wohdek21/Project-Roll/blob/main/For%20github/img/IMG_1495.jpeg)
+![Roll logo](https://github.com/wohdek21/Project-Roll/blob/main/Assets/Img/logo.jpeg)  
   
-  # Project Roll
+# Project Roll
 ### Welcome to world rolling.
 This is the handheld mini pc with raspberry pi 4 inside. It's fully customizable and open source. Also functions as a pentester
 
@@ -14,7 +14,7 @@ Linux is supported natively.
 ## RollUI
 Also, Project Roll uses RollUI as a program to work with other modules.  
 
-### RollOS
+## RollOS
 RollOS is a system based on Windows that runs RollUI in full-screen mode and on startup.    
 In this system, RollUI has a function called "Leave to Desktop". It simply closes RollUI and displays the basic Windows desktop.     
 It's like SteamOS!    

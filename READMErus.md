@@ -1,6 +1,7 @@
 [English version](https://github.com/wohdek21/Project-Roll/blob/main/README.md)
 
-![Roll logo](https://github.com/wohdek21/Project-Roll/blob/main/For%20github/img/IMG_1495.jpeg)  
+![Roll logo](https://github.com/wohdek21/Project-Roll/blob/main/Assets/Img/logo.jpeg)  
+
 # Project Roll
 ### Добро пожаловать в мир роллинга.
 Это карманный мини-ПК с Raspberry Pi 4 внутри. Он полностью настраиваемый и с открытым исходным кодом. Также имеет функции для пентестинга, такие же как во Flipper Zero.
@@ -11,7 +12,7 @@
 Linux поддерживается изначально.   
 ## RollUI
 Кроме того, Project Roll использует RollUI в качестве программы для работы с другими модулями.   
-### RollOS
+## RollOS
 RollOS - это система на базе Windows, которая запускает RollUI в полноэкранном режиме и при запуске .   
 В этой системе RollUI имеет функцию под названием "Выход на рабочий стол" . Он просто закрывает RollUI и отображает базовый рабочий стол Windows .    
 Это как SteamOS !
