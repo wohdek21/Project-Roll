@@ -1,5 +1,6 @@
 [English version](https://github.com/wohdek21/Project-Roll/blob/main/README.md)
 
+![Roll logo](https://github.com/wohdek21/Project-Roll/blob/main/For%20github/img/IMG_1495.jpeg)  
 # Project Roll
 ### Добро пожаловать в мир роллинга.
 Это карманный мини-ПК с Raspberry Pi 4 внутри. Он полностью настраиваемый и с открытым исходным кодом. Также имеет функции для пентестинга, такие же как во Flipper Zero.
