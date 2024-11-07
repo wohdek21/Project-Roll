@@ -12,10 +12,10 @@ Linux is supported natively.
 ## RollUI
 Also, Project Roll uses RollUI as a program to work with other modules.  
 
-###RollOS
-RollOS is a system based on Windows that runs RollUI in full-screen mode and on startup.   
-In this system, RollUI has a function called "Leave to Desktop". It simply closes RollUI and displays the basic Windows desktop.    
-It's like SteamOS!
+### RollOS
+RollOS is a system based on Windows that runs RollUI in full-screen mode and on startup.    
+In this system, RollUI has a function called "Leave to Desktop". It simply closes RollUI and displays the basic Windows desktop.     
+It's like SteamOS!    
 
 # Functions
 This project also contains Flipper Zero features such as:
